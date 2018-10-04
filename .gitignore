@@ -1,2 +1,9 @@
 .DS_Store
+target
 target/*
+.idea
+.idea/libraries/
+.idea/libraries/*
+.idea/*
+build
+build/*
