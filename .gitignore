@@ -7,3 +7,5 @@ target/*
 .idea/*
 build
 build/*
+.gradle
+.gradle/*
